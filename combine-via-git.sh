@@ -40,7 +40,7 @@ REF_ISO_PROFILE_REPO_ARCHIVE_EXTRACT_DIR_NAME="AnduinOS-${REF_ISO_PROFILE_REPO_B
 ## ## Path / Work Dir
 ##
 
-REF_WORK_DIR_PATH="${HOME}/work/anduinos-iso-builder-remix-cinnamon"
+REF_WORK_DIR_PATH="${HOME}/work/anduinos-iso-builder-remix-advance-cinnamon"
 
 
 
@@ -119,7 +119,7 @@ cp -rfT "${REF_COMBINE_SOURCE_DIR_PATH}" "${REF_COMBINE_TARGET_DIR_PATH}"
 echo
 echo "[OK]: Combine OK"
 #echo "[Next Step]: cd ${REF_COMBINE_TARGET_DIR_PATH}"
-echo "[Next Step]: cd ~/work/anduinos-iso-builder-remix-cinnamon/iso-profile
+echo "[Next Step]: cd ~/work/anduinos-iso-builder-remix-advance-cinnamon/iso-profile
 "
 echo
 
