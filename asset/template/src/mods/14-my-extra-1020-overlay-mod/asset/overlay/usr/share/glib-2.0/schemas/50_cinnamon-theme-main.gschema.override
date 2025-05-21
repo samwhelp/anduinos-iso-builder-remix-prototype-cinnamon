@@ -18,6 +18,7 @@ cursor-theme='Fluent-dark-cursors'
 cursor-size=24
 menus-have-icons=true
 buttons-have-icons=true
+font-name='Sans 11'
 
 
 [org.cinnamon.settings-daemon.plugins.xsettings]
